@@ -5,8 +5,8 @@ function MyComponent() {
   return <div className="Apex-module-container">
             
                <div className="Apex-text-container">
-                <div><h3>Apex Red Dragon apparel</h3></div>
-                <div><p>A sleek and minimalist design with hints of cultural references and Leader culture.</p></div>
+                <div><h3 className="apex-text-title">Apex Red Dragon apparel</h3></div>
+                <div><p className="apex-text-description">A sleek and minimalist design with hints of cultural references and Leader culture.</p></div>
                </div>
 
 

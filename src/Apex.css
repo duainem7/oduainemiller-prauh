@@ -13,14 +13,21 @@
 
 .Apex-text-container{
     width: 35%;
-    height: 70%;
+    height: 90%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    align-items: flex-end;
     font-size: 6vh;
     margin-left: 75px;
+    margin-top: 0px;
 
+}
+.apex-text-title{
+    margin-top: -15px;
+}
+.apex-text-description{
+    margin-bottom: -4px;
 }
 
 .Apex-image-container{
