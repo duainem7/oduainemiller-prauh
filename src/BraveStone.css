@@ -1,0 +1,12 @@
+.Apex-module-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    color: white;
+    background-color: rgba(255, 0, 0, 1);
+    margin: 0,10px,0,10px;
+}
