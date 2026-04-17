@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Apex from './Apex.js';
+import BraveStone from './BraveStone.js';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       </div>
 
     <Apex />
+    <BraveStone />
     
         
     </div>

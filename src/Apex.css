@@ -1,49 +1,47 @@
 .Apex-module-container{
     width: 100%;
-    height: 100vh;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
+    height: 110vh;
     overflow: hidden;
     color: white;
     background-color: rgba(255, 0, 0, 1);
-    margin: 0,10px,0,10px;
+    display: flex;
+    justify-content: center;
 }
-
+.Apex-body-container{
+    width: 87%;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
 .Apex-text-container{
-    width: 35%;
-    height: 90%;
+    width: 320px;
+    height: 350px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: flex-start;
     font-size: 6vh;
-    margin-left: 75px;
-    margin-top: 0px;
+    border: 2px solid white;
 
-}
-.apex-text-title{
-    margin-top: -15px;
-}
-.apex-text-description{
-    margin-bottom: -4px;
 }
 
 .Apex-image-container{
-    width: 48%;
-    height: 90%;
+    width: 350px;
+    height: 350px;
     display: flex;
-    flex-direction: row;
+    flex-direction:row;
     flex-wrap: wrap;
+    border: 2px solid white;
     align-items: center;
-    margin: 0 0 0 10px;
-    margin-right: 75px;
+    justify-content: center;
 
 }
 
-img{
-    width: 50%;
-    height: 50%;
-    object-fit: cover;
+.Apex-image-container img{
+    width: 49%;
+    height: auto;
+    margin: 0;
+    padding: .2px;
 }

@@ -1,19 +1,14 @@
-
-
-
-
-
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.App {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
+
+
 
 
 
@@ -24,6 +19,8 @@ h3{
   letter-spacing: 2px;
   margin-top: 0px;
   padding-top: 0px;
+  margin-bottom: 0;
+  padding-bottom: 0;;
 }
 
 p{
