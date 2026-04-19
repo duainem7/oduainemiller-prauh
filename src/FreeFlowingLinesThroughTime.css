@@ -1,0 +1,47 @@
+.ffltt-module-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 135vh;
+}
+.ffltt-title-container{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 6vh;
+    text-align: center;
+}
+.ffltt-description{
+    color: red;
+}
+h5{
+    font-size: 7.5vw;
+    line-height: 0.9;
+    -webkit-text-stroke: 3.5px black;
+    letter-spacing: 2px;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0;
+    padding-bottom: 0;;
+}
+.ffltt-image-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url("C:\Users\duain\Desktop\portfoliosite\public\Freeflowinglinesthroughtime\prepped_20250824_130906.jpg");
+    background-size:contain;
+    background-position: center;
+    background-repeat: repeat;
+}
+.ffltt-inner-image-container{
+    width: 28%;
+    height: 28%;
+    background-color: black;
+}

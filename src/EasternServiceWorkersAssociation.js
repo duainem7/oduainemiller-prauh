@@ -1,12 +1,16 @@
 // Example: MyComponent.js
-import './Apex.css';
+import './EasternServiceWorkersAssociation.css';
 
-function MyComponent() {
-  return <div className="ESW-module-container">
+function ESW() {
+  return <div className="esw-module-container">
             
                <div className="esw-text-container">
-                <div><h3>Apex Red Dragon apparel</h3></div>
-                <div><p>A sleek and minimalist design with hints of cultural references and Leader culture.</p></div>
+                <div><h1>Eastern Service Workers Association</h1></div>
+                <div><p className="esw-description">A sleek anfefehifheifhiasidfhadsufhauiodhfioasdhfuoagdfouasdgfuigsdufgoasduyfoasdyfgasdsf
+                  sdfauisdgfoasdgfouasdgfuasdgfasduygfasdygfoasydugfuaysdgfasydugfoasdyuf
+                  sdfpuiasdgfuipasgdfuasgdfpiasudgfiuasdgfasduif
+                  asdfuipasdgfuipasdgifugasduifgasduipgfpuasdigfpas
+                  dsfiausdhfpiuasgdpufasiudfgasdufd minimalist design with hints of cultural references and Leader culture.</p></div>
                </div>
 
 
@@ -25,4 +29,4 @@ function MyComponent() {
 
         </div>;
 }
-export default MyComponent;
+export default ESW;
