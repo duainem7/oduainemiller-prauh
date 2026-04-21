@@ -16,17 +16,17 @@
     text-align: center;
 }
 .ffltt-description{
-    color: red;
+    color: black;
 }
 h5{
     font-size: 7.5vw;
-    line-height: 0.9;
+    line-height: 1.1;
     -webkit-text-stroke: 3.5px black;
     letter-spacing: 2px;
     margin-top: 0px;
     padding-top: 0px;
-    margin-bottom: 0;
-    padding-bottom: 0;;
+    margin-bottom: 20px;
+    padding-bottom: 0;
 }
 .ffltt-image-container{
     width: 100%;

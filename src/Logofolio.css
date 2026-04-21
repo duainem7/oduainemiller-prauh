@@ -1,0 +1,42 @@
+.folio-module-container{
+    width: 100%;
+    height: 380vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.folio-text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.folio-title{
+    font-size: 7.5vw;
+    line-height: 0.9;
+    -webkit-text-stroke: 3.5px black;
+    letter-spacing: 2px;
+    margin-top: 0px;
+    padding-top: 0px;
+    color: black;
+}
+
+.folio-image-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 8px;
+
+    width: 96%;
+    height: auto;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.folio-image-container img{
+    width: 32%;
+    height: auto;
+}   

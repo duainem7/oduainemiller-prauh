@@ -4,6 +4,8 @@ import Apex from './Apex.js';
 import BraveStone from './BraveStone.js';
 import ESW from './EasternServiceWorkersAssociation.js';
 import FFLTT from './FreeFlowingLinesThroughTime.js';
+import Greenly from './Greenly.js';
+import Logofolio from './Logofolio.js'
 
 function App() {
   return (
@@ -22,7 +24,8 @@ function App() {
     <BraveStone />
     <ESW />
     <FFLTT />
-        
+    <Greenly />
+    <Logofolio />
     </div>
   );
 }
