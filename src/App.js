@@ -5,7 +5,9 @@ import BraveStone from './BraveStone.js';
 import ESW from './EasternServiceWorkersAssociation.js';
 import FFLTT from './FreeFlowingLinesThroughTime.js';
 import Greenly from './Greenly.js';
+import Krauh from './Krauh.js';
 import Logofolio from './Logofolio.js'
+import WakeTheory from './WakeTheory.js';
 
 function App() {
   return (
@@ -25,7 +27,9 @@ function App() {
     <ESW />
     <FFLTT />
     <Greenly />
+    <Krauh />
     <Logofolio />
+    <WakeTheory />
     </div>
   );
 }

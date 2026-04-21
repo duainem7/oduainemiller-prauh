@@ -1,11 +1,12 @@
-.folio-module-container{
+.krauh-module-container{
     width: 100%;
-    height: 200vh;
+    height: 500vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-.folio-text-container{
+
+.krauh-text-container{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -13,17 +14,29 @@
     width: 100%;
 
 }
-.folio-title{
-    font-size: 7.5vw;
-    line-height: 0.9;
-    -webkit-text-stroke: 3.5px black;
-    letter-spacing: 2px;
-    margin-top: 0px;
-    padding-top: 0px;
-    color: black;
+
+.krauh-title-text{
+  font-size: 7.5vw;
+  line-height: 0.9;
+  -webkit-text-stroke: 3.5px black;
+  letter-spacing: 2px;
+  margin-top: 0px;
+  padding-top: 0px;
 }
 
-.folio-image-container{
+.krauh-description-text{
+
+}
+
+.krauh-hero-container{
+    width: 100%;
+}
+.krauh-hero-container img{
+    width: 100%;
+    height: auto;
+}
+
+.krauh-image-container{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -36,7 +49,7 @@
 
 }
 
-.folio-image-container img{
+.krauh-image-container img{
     width: 32%;
     height: auto;
-}   
+}
