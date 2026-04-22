@@ -11,8 +11,8 @@ function MyComponent() {
 
 
                <div className="Apex-image-container">
-                <img src={process.env.PUBLIC_URL + '/Apex/hoodie.png'} alt="Apex Red Dragon Hoodie" className="apex-hoodie" />
-                <img src={process.env.PUBLIC_URL + '/Apex/Card.png'} alt="Apex Red Dragon Card" className="apex-card" />
+                <img src={process.env.PUBLIC_URL + '/Apex/hoodie.jpg'} alt="Apex Red Dragon Hoodie" className="apex-hoodie" />
+                <img src={process.env.PUBLIC_URL + '/Apex/Card.jpg'} alt="Apex Red Dragon Card" className="apex-card" />
                 <img src={process.env.PUBLIC_URL + '/Apex/poloshirt.jpg'} alt="Apex Red Dragon Polo Shirt" className="apex-poloshirt" />
                 <img src={process.env.PUBLIC_URL + '/Apex/newsock.jpg'} alt="Apex Red Dragon New Sock" className="apex-newsock" />
                </div>

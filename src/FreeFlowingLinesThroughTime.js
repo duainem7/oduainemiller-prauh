@@ -11,10 +11,15 @@ function FFLTT() {
 
                  <div className="ffltt-title-container">
                   <div><h5>Free Flowing Lines Through Time</h5></div>
-                  <div><p className="ffltt-description">A sleek and minimalist design with hints of cultural references and Leader culture.</p></div>
+                  <div className="fflt-description-container"><p className="ffltt-description">A collective display of  organic line works 
+                    thoughtfully put together for appreciation <br /><br />
+                    "Free Flowing Lines Through Time" invites viewers to follow the journey 
+                    of ink/pencil across  paper, where each stroke carries a sense of movement and memory. 
+                    These organic lines twist, merge, and drift, capturing moments that feel both fleeting 
+                    and eternal.</p></div>
                 </div>
 
-                <div className="ffltt-inner-image-container"> </div>
+                <div className="ffltt-inner-image-container"><img src={process.env.PUBLIC_URL + '/Freeflowinglinesthroughtime/eddieheartenburd.jpg'} alt="Free Flowing Lines Through Time" /></div>
 
                </div>
 
