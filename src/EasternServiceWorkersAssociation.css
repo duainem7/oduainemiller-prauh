@@ -9,7 +9,7 @@
 }
 .esw-text-container{
      width: 650px;
-    height: 1000px;
+    height: 830px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -46,7 +46,7 @@
 
 h1{
     -webkit-text-stroke: 4.8px yellow;
-    font-size: 9.3vw;
+    font-size: 8.6vw;
     line-height: 1.5;
     letter-spacing: 2px;
     margin-top: 0px;
